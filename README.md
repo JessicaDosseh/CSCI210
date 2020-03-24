@@ -1,5 +1,5 @@
 # CSCI 210 Programming Tools
-# Assignment 8 Git/GitHub
+## Assignment 8 Git/GitHub
 
 ## Minimum Viable Product
 
